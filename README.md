@@ -17,6 +17,10 @@ differentially expressed surface proteins in NE-treated human macrophages.
 - Functional pathway annotation
 - Interactive Plotly dashboard
 
+## Results
+## Results
+![Proteomics Pipeline](proteomics_pipeline.png)
+
 ## Tools
 Python · pandas · numpy · scipy · scikit-learn · seaborn · matplotlib · plotly · statsmodels
 
