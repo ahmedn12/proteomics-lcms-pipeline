@@ -1,9 +1,9 @@
 Pathway,Genes in set,Significant hits,Upregulated,Downregulated
-Inflammatory response,5,0,—,—
-M1 macrophage activation,5,0,—,—
-M2 macrophage suppression,5,0,—,—
-Cell adhesion & migration,5,0,—,—
-Proteolysis / ECM remodeling,3,0,—,—
-Chemokine signaling,3,0,—,—
-Scavenger receptor activity,4,0,—,—
-Lysosomal activity,3,0,—,—
+Inflammatory response,5,1,S100A8,—
+M1 macrophage activation,5,2,"CD86, CD68",—
+M2 macrophage suppression,5,1,—,MSR1
+Cell adhesion & migration,5,2,"ITGAM, ITGB2",—
+Proteolysis / ECM remodeling,3,1,CTSD,—
+Chemokine signaling,3,1,—,CCR2
+Scavenger receptor activity,4,2,CD36,MSR1
+Lysosomal activity,3,2,"CTSD, CD68",—
